@@ -17,4 +17,3 @@ export const useCourse = (): Course => {
     chapters,
   };
 };
-Ò;
